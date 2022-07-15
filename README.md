@@ -1,3 +1,3 @@
 # アルゴリズムをC++で学ぶ
 
-### いずれHaskellやRustでもやりたい
+いずれHaskellやRustでもやりたい
